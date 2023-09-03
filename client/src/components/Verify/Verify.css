@@ -1,0 +1,21 @@
+.verify__loading {
+  text-align: center;
+  margin-top: 20px;
+}
+.verify {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+.verified {
+  margin-top: 30px;
+}
+.verify button {
+  background-color: #f0c14b;
+  border: 1px solid;
+  border-color: #a88734 #9c7e31 #846a30;
+  cursor: pointer;
+  padding: 5px 10px;
+}
